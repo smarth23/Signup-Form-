@@ -1,0 +1,90 @@
+body{
+	font-family: arial;
+	margin: 10px auto;
+	width:85%;
+}
+p {
+	font-weight: bold;
+}
+
+img{
+	border: 1px solid black;
+	margin-bottom: 5px;
+}
+
+h1{
+	width:80%;
+	margin: 2px auto;
+	border: 2px solid gray;
+}
+
+.underheader{
+	font-size: 10px;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.outform{
+	margin:  auto 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	min-width: 600px;
+	border: 2px solid gray;
+	
+
+}
+
+.sideblock{
+	vertical-align: top;
+	float: 
+}
+.xyz{
+	padding: 10px;
+	margin: 0 auto;
+	margin-right: 25px;
+	width: 60%;
+	border: 2px solid gray;
+	font-size: 13px
+}
+
+.check{
+	width:10px;
+	height: 9px;
+}
+form {
+	padding-left: 20px;
+
+}
+
+input {
+	width :180px;
+	height: 25px;
+	border-top: 2px solid gray;
+	/*border: 1px solid black;*/
+	box-shadow: 1px 2px 2px #888888;
+}
+.black_link{
+	color: black;
+
+}
+
+.submit{
+	margin-top: 25px;
+	width: 170px;
+    height: 30px;
+    background-color: #F1F1ED;
+    border: solid 1px gray;
+    border-radius: 5px;
+	color: maroon;
+	font-weight: bold;
+}
+
+
+table{
+	padding-bottom: 90px;
+	table-layout: fixed;
+}
+
+.col1{
+	width: 50%;
+}
