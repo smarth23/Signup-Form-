@@ -1,2 +1,2 @@
 # Signup-Form-
-A simple signup from to that stores data into a mysql database while checking if the email already exists in the database
+A simple signup form that stores user information in a SQL database, Also notifies if the user already exists in the system.
